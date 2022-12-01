@@ -40,24 +40,24 @@ void	ft_convert(char *str, int b, int len, int k)
 char	*ft_itoa(int n)
 {
 	char	*str;
-	int		musto;
+	int		index;
 	int		size;
 
-	musto = 0;
+	index = 0;
 	size = ft_step(n);
 	str = ((char *)malloc(sizeof(char) * (size + 1)));
 	if (!str)
 		return (NULL);
 	if (n == -2147483648)
 	{
-		musto = 2;
+		index = 2;
 		*(str + 1) = '2';
 		*(str + 0) = '-';
 		n = 147483648;
 	}
 	if (n < 0)
 	{
-		musto = 1;
+		index = 1;
 		*(str + 0) = '-';
 		n = -n;
 	}
