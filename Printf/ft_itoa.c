@@ -62,6 +62,6 @@ char	*ft_itoa(int n)
 		n = -n;
 	}
 	str[size] = 0;
-	ft_convert (str, n, size, musto);
+	ft_convert (str, n, size, index);
 	return (str);
 }
