@@ -14,7 +14,7 @@
 
 void	ft_print_add(unsigned long long num1)
 {
-	if (num1 > 16)
+	if (num1 >= 16)
 	{
 		ft_print_add(num1 / 16);
 		ft_print_add(num1 % 16);
