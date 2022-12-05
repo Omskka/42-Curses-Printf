@@ -2,7 +2,7 @@
 
 ![Screenshot](printf.png)
 
-![Alt text](Screenshots\printf.jpg )
+![Alt text](printf.jpg )
 
 **Write a library that contains ft_printf(), a
 function that will mimic the original printf()**
