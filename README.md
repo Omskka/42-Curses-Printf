@@ -3,8 +3,8 @@
 ![Screenshot](SS/printf.png)
 
 You have to implement the following conversions:  
-• %c Prints a single character.  
-• %s Prints a string (as defined by the common C convention).  
+• **%c** Prints a single character.  
+• **%s** Prints a string (as defined by the common C convention).  
 • %p The void * pointer argument has to be printed in hexadecimal format.  
 • %d Prints a decimal (base 10) number.  
 • %i Prints an integer in base 10.  
