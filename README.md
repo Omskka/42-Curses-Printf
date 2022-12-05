@@ -1,4 +1,4 @@
-<h1>ft_Printf</h1>
+<h2>ft_Printf</h2>
 
 **Write a library that contains ft_printf(), a
 function that will mimic the original printf()**
