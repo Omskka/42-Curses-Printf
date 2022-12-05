@@ -1,6 +1,6 @@
 <h2>ft_Printf</h2>
 
-![Screenshot](printf.png)
+![Screenshot](SS/printf.png)
 
 ![Alt text](printf.jpg )
 
