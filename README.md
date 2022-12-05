@@ -3,7 +3,7 @@
 <h2>Write a library that contains ft_printf(), a  
 function that will mimic the original printf()</h2>
 
-You have to implement the following conversions:  
+>You have to implement the following conversions:  
 • %c Prints a single character.  
 • %s Prints a string (as defined by the common C convention).  
 • %p The void * pointer argument has to be printed in hexadecimal format.  
