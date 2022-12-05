@@ -1,7 +1,7 @@
 <h1>ft_Printf</h1>
 
-Write a library that contains ft_printf(), a
-function that will mimic the original printf()
+<h2>Write a library that contains ft_printf(), a  
+function that will mimic the original printf()</h2>
 
 You have to implement the following conversions:  
 • %c Prints a single character.  
